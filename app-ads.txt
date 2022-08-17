@@ -105,3 +105,5 @@ exchange.admazing.co, AM3, RESELLER
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
 yeahmobi.com, 5135195, RESELLER
+opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8
